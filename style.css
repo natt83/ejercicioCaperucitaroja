@@ -1,0 +1,12 @@
+body{background-color: aqua;}
+h1{
+    display: flex;
+justify-content: center;
+background-color: red;}
+.redhood{
+    display: flex;
+    padding-left: 34%;
+}
+p{
+    display: flex;
+    margin-left:15%;}

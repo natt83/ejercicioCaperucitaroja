@@ -1,12 +1,35 @@
-body{background-color: aqua;}
-h1{
-    display: flex;
-justify-content: center;
-background-color: red;}
-.redhood{
-    display: flex;
-    padding-left: 34%;
+body {
+  background-color: aqua;
 }
-p{
-    display: flex;
-    margin-left:20%;}
+h1 {
+  display: flex;
+  justify-content: center;
+  background-color: red;
+}
+.redhood {
+  display: flex;
+  padding-left: 34%;
+}
+p {
+  display: flex;
+  margin-left: 20%;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+  color: green;
+}
+.forest {
+  display: flex;
+  padding-left: 34%;
+}
+.wolf {
+  display: flex;
+  padding-left: 15%;
+}
+.thewolf {
+  display: flex;
+  align-items:center;
+  
+  
+}
